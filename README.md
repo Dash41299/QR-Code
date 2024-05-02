@@ -28,8 +28,7 @@ pip install qrcode
 
 To deploy this project run
 
-```bash
-#please subscribe "Problem Solve With Ridoy" youtube channel
+
 
 # For create multipole QR code 
 
@@ -54,16 +53,6 @@ print("QR code create completed")
 
 
 
-
-## You can follow me
-
-Facebook:- https://www.facebook.com/problemsolvewithridoy/
-
-Linkedin:- https://www.linkedin.com/in/ridoyhossain/
-
-YouTube:- https://www.youtube.com/@problemsolvewithridoy
-
-Gmail:- entridoy2@gmail.com
 
 If you have any confusion, please feel free to contact me. Thank you
 
